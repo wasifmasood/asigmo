@@ -1,0 +1,9 @@
+
+#FBProphet
+conda install -c conda-forge fbprophet
+https://anaconda.org/conda-forge/fbprophet
+
+#skopt
+pip install scikit-optimize
+https://pypi.org/project/scikit-optimize/
+
